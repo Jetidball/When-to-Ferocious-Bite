@@ -17,10 +17,13 @@ Video Explination:     https://www.youtube.com/watch?v=MAsqYJfw6MY
 
 To Do:
 
-Add Optimization of points to energy vs life remaing feature
-Add a %of Criitical chance display (should be 25% + crit if you have the talent)
-Add verification module that will tell you to cast very fast on low health non boss NPC 
-Add module to calcualate + show highest Crits and How many total Kills with Fercious bite over lifetime
+1. Add Optimization of points to energy vs life remaing feature
+
+2. Add a %of Criitical chance display (should be 25% + crit if you have the talent)
+
+3. Add verification module that will tell you to cast very fast on low health non boss NPC 
+
+4. Add module to calcualate + show highest Crits and How many total Kills with Fercious bite over lifetime
 
 -----------------------------11/15/2022------------------------------
 
